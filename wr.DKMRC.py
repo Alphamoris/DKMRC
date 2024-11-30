@@ -1,3 +1,4 @@
+"A project licensed by Alphamoris"
 import mysql.connector as Module
 connectionobj=Module.connect(user="root",password="dk@1234",host="localhost")
 cursorobj=connectionobj.cursor()
