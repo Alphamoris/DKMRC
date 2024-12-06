@@ -1,4 +1,4 @@
-"A project licensed by Alphamoris"
+"A project licensed by Dhanush@Alphamoris"
 "if any contact alphamoris45@gmail.com"
 import mysql.connector as Module
 connectionobj=Module.connect(user="root",password="dk@1234",host="localhost")
